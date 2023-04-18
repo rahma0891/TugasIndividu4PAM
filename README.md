@@ -9,7 +9,7 @@ https://expo.dev/artifacts/eas/mAqKsN3FKAtnFTj8S5BE7R.apk
 
 ## Perubahan
 
-<img src="./assets/update.jpg">
+<img src="./assets/update.jpg" style="width:200px">
 
 ## Testing jest
 
