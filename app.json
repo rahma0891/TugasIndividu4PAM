@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "HilingId",
+    "slug": "HilingId",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logofinal.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/gambarfinal.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#32cd32"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.RAHMAWATI120140184.HilingId"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/gambarfinal.png",
+        "backgroundColor": "#32cd32"
+      },
+      "package": "com.RAHMAWATI120140184.HilingId"
+    },
+    "web": {
+      "favicon": "./assets/gambarfinal.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "77612d5a-e640-4258-96f7-57774dacd57e"
+      }
+    }
+  }
+}
