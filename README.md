@@ -5,7 +5,7 @@
 <h3>KELAS : PAM RB</h3>
 <h3>Tugas Individu 3</h3>
 <h3>Hiling.Id</h3>
-https://expo.dev/artifacts/eas/mAqKsN3FKAtnFTj8S5BE7R.apk
+https://expo.dev/artifacts/eas/9T4kXRtdXw3QDfY9CurDXs.apk
 
 ## Perubahan
 
